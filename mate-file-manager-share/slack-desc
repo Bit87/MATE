@@ -8,11 +8,11 @@
                        |-----handy-ruler------------------------------------------------------|
 mate-file-manager-share: mate-file-manager-share
 mate-file-manager-share:
-mate-file-manager-share: This is a proof-of-concept Caja extension which allows you to open a
-mate-file-manager-share: terminal in arbitrary local folders. This is a fork of
-mate-file-manager-share: nautilus-share.
+mate-file-manager-share: Caja extension designed for easier folders sharing via Samba
+mate-file-manager-share: (CIFS protocol) in *NIX systems.
 mate-file-manager-share:
 mate-file-manager-share: URL: http://mate-desktop.org/
+mate-file-manager-share:
 mate-file-manager-share:
 mate-file-manager-share:
 mate-file-manager-share:

@@ -53,15 +53,17 @@ mate-file-manager-gksu
 mate-file-manager-open-terminal
 mate-file-manager-image-converter
 mate-file-manager-sendto
+mate-file-manager-share
 mate-bluetooth
 mate-user-share
 mate-netspeed
 python-caja
 
-## NOT BUILDING BECAUSE DEPENDENCY ISSUE
-mate-netbook
-mate-system-tools
-mate-indicator
+## SKIP BUILDING BECAUSE DEPENDENCY ISSUE
+- mate-netbook
+- mate-system-tools
+- mate-indicator
+- mate-utils
 
 ## REMOVED AS OF MATE 1.5 RELEASE
 - mate-corba
@@ -74,4 +76,3 @@ mate-indicator
 - libmatecomponentui
 - libmateui
 - mate-conf-editor
-- mate-utils
