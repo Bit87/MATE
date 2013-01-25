@@ -85,11 +85,6 @@ CXXFLAGS="$SLKCFLAGS" \
   --sysconfdir=/etc --docdir=/usr/doc/$PRGNAM-$VERSION \
   --localstatedir=/var --sharedstatedir=/var/lib \
   --disable-static --enable-shared \
-  --disable-schemas-compile \
-  --disable-icon-update \
-  --disable-scrollkeeper \
-  --disable-desktop-update \
-  --enable-introspection=yes \
 
 make
 make install DESTDIR=$PKG
