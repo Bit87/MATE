@@ -4,27 +4,23 @@ libdaemon
 avahi
 libunique
 pulseaudio
+alsa-plugins
 exempi
 libgtop
+libgksu
+gksu
+libgxps
 
 ## MATE DESKTOP
 mate-common
 mate-doc-utils
-mate-corba
-mate-conf
-libmatecomponent
-mate-mime-data
-mate-vfs
-libmate
-libmatecanvas
-libmatecomponentui
 libmatekeyring
 mate-keyring
-libmateui
 libmatenotify
 libmatekbd
 libmateweather
 mate-icon-theme
+mate-icon-theme-faenza
 mate-dialogs
 mate-desktop
 mate-file-manager
@@ -50,8 +46,32 @@ make-image-viewer
 mate-media
 mate-applets
 mate-calc
-mate-conf-editor
 mate-menu-editor
 mate-system-monitor
-mate-utils
+mate-sensors-applet
+mate-file-manager-gksu
+mate-file-manager-open-terminal
+mate-file-manager-image-converter
+mate-file-manager-sendto
+mate-bluetooth
+mate-user-share
+mate-netspeed
+python-caja
+
+## NOT BUILDING BECAUSE DEPENDENCY ISSUE
+mate-netbook
 mate-system-tools
+mate-indicator
+
+## REMOVED AS OF MATE 1.5 RELEASE
+- mate-corba
+- mate-conf
+- libmatecomponent
+- mate-mime-data
+- mate-vfs
+- libmate
+- libmatecanvas
+- libmatecomponentui
+- libmateui
+- mate-conf-editor
+- mate-utils

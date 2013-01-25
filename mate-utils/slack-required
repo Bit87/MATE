@@ -1,12 +1,5 @@
 avahi
 libgtop
-libmate
-libmatecanvas
-libmatecomponent
-libmatecomponentui
 libmateweather
-mate-conf
-mate-corba
 mate-desktop
 mate-panel
-mate-vfs

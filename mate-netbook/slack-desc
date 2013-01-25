@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+            |-----handy-ruler------------------------------------------------------|
+mate-netbook: mate-netbook
+mate-netbook:
+mate-netbook: This package provides a simple window management tool which provides
+mate-netbook: the following functionality:
+mate-netbook: * Allow to set basic rules for window types;
+mate-netbook: * Allow exceptions to the rules based on string matching for window
+mate-netbook:   name and window class;
+mate-netbook: * Allows reversing of rules when the user manually changes something;
+mate-netbook: * Re-decorates windows on un-maximize
+mate-netbook: URL: http://mate-desktop.org/
+mate-netbook:

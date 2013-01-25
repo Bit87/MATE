@@ -10,7 +10,7 @@ sysmodmap=/etc/X11/xinit/.Xmodmap
 # default session settings
 MATE_SESSION_SETTINGS=""
 
-export XDG_CONFIG_DIRS=/etc/xdg
+unset XDG_CONFIG_DIRS; export XDG_CONFIG_DIRS=/etc/xdg
 
 # Merge in defaults and keymaps
 if [ -f $sysresources ]; then

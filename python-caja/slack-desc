@@ -5,15 +5,15 @@
 # exactly 11 lines for the formatting to be correct.  It's also customary to
 # leave one space after the ':'.
 
-	  |-----handy-ruler------------------------------------------------------|
-pyargparse: pyargparse (Python Command Line Parsing)
-pyargparse:
-pyargparse: The argparse module makes it easy to write user-friendly command-line
-pyargparse: interfaces. The program defines what arguments it requires, and argparse
-pyargparse: will figure out how to parse those out of sys.argv. The argparse module
-pyargparse: also automatically generates help and usage messages and issues errors
-pyargparse: when users give the program invalid arguments.
-pyargparse:
-pyargparse: URL: http://code.google.com/p/argparse/
-pyargparse:
-pyargparse: Packager: Widya Walesa <http://www.walecha.net/>
+           |-----handy-ruler------------------------------------------------------|
+python-caja: python-caja (MATE Python Binding)
+python-caja:
+python-caja: These are bindings for the caja extension library introduced in MATE.
+python-caja:
+python-caja: URL: http://mate-desktop.org/
+python-caja:
+python-caja:
+python-caja:
+python-caja:
+python-caja:
+python-caja: Packager: Widya Walesa <http://www.walecha.net/>

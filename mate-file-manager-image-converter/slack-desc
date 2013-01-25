@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+                                 |-----handy-ruler------------------------------------------------------|
+mate-file-manager-image-converter: mate-file-manager-image-converter
+mate-file-manager-image-converter:
+mate-file-manager-image-converter: ImageResizer adds a "Resize Images..." menu item to the context menu
+mate-file-manager-image-converter: of all images. This opens a dialog where you set the desired image
+mate-file-manager-image-converter: size and file name. A click on "Resize" finally resizes the image(s)
+mate-file-manager-image-converter: using ImageMagick's convert tool.
+mate-file-manager-image-converter:
+mate-file-manager-image-converter: URL: http://mate-desktop.org/
+mate-file-manager-image-converter:
+mate-file-manager-image-converter:
+mate-file-manager-image-converter:

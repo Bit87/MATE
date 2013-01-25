@@ -1,0 +1,12 @@
+                   |-----handy-ruler------------------------------------------------------|
+mate-sensors-applet: mate-sensors-applet
+mate-sensors-applet:
+mate-sensors-applet: MATE Sensors Applet is an applet for the MATE Panel to display
+mate-sensors-applet: readings from hardware sensors, including CPU and system temperatures,
+mate-sensors-applet: fan speeds and voltage readings under Linux. Interfaces via the Linux
+mate-sensors-applet: kernel i2c modules.
+mate-sensors-applet:
+mate-sensors-applet: URL: http://mate-desktop.org/
+mate-sensors-applet:
+mate-sensors-applet:
+mate-sensors-applet:
